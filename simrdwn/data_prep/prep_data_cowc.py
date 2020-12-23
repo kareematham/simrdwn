@@ -38,10 +38,10 @@ label_map_file = 'class_labels_car.pbtxt'
 verbose = True
 
 # at /cosmiq
-simrdwn_data_dir = '/cosmiq/src/simrdwn3/data/train_data'
-label_path_root = '/cosmiq/src/simrdwn3/data/train_data'
-train_out_dir = '/cosmiq/src/simrdwn3/data/train_data/cowc'
-test_out_dir = '/cosmiq/src/simrdwn3/data/test_images/cowc'
+simrdwn_data_dir = '/content/simrdwn/data/train_data'
+label_path_root = '/content/simrdwn/data/train_data'
+train_out_dir = '/content/simrdwn/data/train_data/cowc'
+test_out_dir = '/content/simrdwn/data/test_images/cowc'
 # at /local_data
 # simrdwn_data_dir = '/local_data/simrdwn3/data/train_data'
 # label_path_root = '/local_data/simrdwn3/data/train_data'
